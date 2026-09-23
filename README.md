@@ -45,7 +45,7 @@
 <a href="https://www.linkedin.com/in/carolina-nagibe-768937312/">
 <img src="https://img.shields.io/badge/LINKEDIN-2b1d12?style=for-the-badge&logo=linkedin&logoColor=e8dcc4" />
 </a>
-<a href="mailto:seuemail@exemplo.com">
+<a href="mailto:carol.9nagibe@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-0d0d0d?style=for-the-badge&logo=gmail&logoColor=e8dcc4" />
 </a>
 <a href="https://www.instagram.com/cahte.ch/">
