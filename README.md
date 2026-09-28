@@ -101,18 +101,6 @@
   <sub>Acompanhe uma sessão de estudos à noite comigo.</sub><br><br>
   <a href="https://youtu.be/C3xCREirgtE">Assistir no YouTube →</a>
 </div>
-
-<!--
-  COMO ADICIONAR OUTRO VÍDEO
-  1. Salve a capa em ./assets/ (ex.: thumb-nome-do-video.jpg, 1280x720).
-  2. Copie o bloco <div align="center"> acima, logo abaixo dele, e troque o link, a imagem, o título e a descrição.
-  3. Para duas capas lado a lado, use uma <table> com dois <td width="50%"> e imagens com width="100%".
-
-  COMO CRIAR UMA NOVA ABA (categoria)
-  Copie o bloco <details> ... </details> inteiro, mude o texto do <summary> (ex.: "Diários de projeto")
-  e remova o atributo "open" para que ela comece fechada.
--->
-
 </details>
 
 <div align="center">
