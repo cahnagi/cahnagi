@@ -48,6 +48,8 @@
 ![Python](https://img.shields.io/badge/Python-5c1a2b?style=for-the-badge&logo=python&logoColor=e8dcc0)
 ![Ruby](https://img.shields.io/badge/Ruby-5c1a2b?style=for-the-badge&logo=ruby&logoColor=e8dcc0)
 ![JavaScript](https://img.shields.io/badge/JavaScript-5c1a2b?style=for-the-badge&logo=javascript&logoColor=e8dcc0)
+![C#](https://img.shields.io/badge/C%23-5c1a2b?style=for-the-badge&logo=csharp&logoColor=e8dcc0)
+![C++](https://img.shields.io/badge/C%2B%2B-5c1a2b?style=for-the-badge&logo=cplusplus&logoColor=e8dcc0)
 
 ### Web
 
